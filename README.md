@@ -1,8 +1,11 @@
 translate runes to Latin characters using the following transliteration:
 
 f - fehu 
+
 u - uruz 
+
 th - thurisaz 
+
 a - ansuz 
 r - raidho 
 c - kenaz 
